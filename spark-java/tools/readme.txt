@@ -1,0 +1,3 @@
+spark.txt为WordCountLocal.java和WordCountCluster.java使用
+wordcount.sh需要修改类名和包名为Eclipse项目中导出的类名和包名
+再将spark.txt上传到hdfs文件系统，运行wordcount.sh
